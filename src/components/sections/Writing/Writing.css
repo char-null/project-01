@@ -1,0 +1,8 @@
+@import "~antd/dist/antd.css";
+
+.ck.ck-editor__editable:not(.ck-editor__nested-editable) {
+  min-height: 300px;
+}
+.form-wrapper {
+  margin-bottom: 10px;
+}
