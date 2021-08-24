@@ -8,6 +8,7 @@ import Blog from './Blog/Blog';
 import Contact from './Contact/Contact';
 import MapMarker from './MapMarker/MapMarker';
 import Gallerys from './Gallery/Gallerys';
+import Writing from './Writing/Writing';
 
 const sections = () => {
   return (
@@ -17,6 +18,7 @@ const sections = () => {
       <Service />
       <Blog />
       <Gallerys />
+      <Writing />
       <Facts />
       <Contact />
       <MapMarker />
