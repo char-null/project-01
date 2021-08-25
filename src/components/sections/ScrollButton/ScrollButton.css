@@ -1,0 +1,30 @@
+@import "~antd/dist/antd.css";
+
+.back-to-top {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  bottom: 20px;
+  right: 20px;
+  font-size: 40px;
+  background: #248eff;
+  color: white;
+  cursor: pointer;
+  border-radius: 25px;
+  border: 0;
+  margin: none;
+  outline: 0;
+}
+.back-to-top:focus {
+  outline: none;
+  border: none;
+}
+.buttonimg {
+  position: fixed;
+  bottom: 67px;
+  right: 48px;
+  width: 10px;
+  height: 10px;
+}
+
+/* Just some color boxes to make the page longer */
